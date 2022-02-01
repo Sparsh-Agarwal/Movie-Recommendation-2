@@ -4,7 +4,9 @@ Dataset Limk: https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_m
 
 Webapp Link: https://movie-recommender-2.herokuapp.com/
 
-In this project,I have build a Movie Recommendation system using Machine Learning with Python. This is one of the most important Machine Learning Projects.
+In this project,I have build a Movie Recommendation system using Natural Language Processing techniques. This is one of the most important Machine Learning Projects.
+I have used Streamlit as web framework and deployed it on Heroku platform.
+Do checkout my website.
 
 Enter your favourite movie name : bat man
 
